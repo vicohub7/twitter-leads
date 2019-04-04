@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+.ipynb_checkpoints
+data/GoogleNews-vectors-negative300-SLIM.bin
